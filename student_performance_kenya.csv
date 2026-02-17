@@ -1,3 +1,4 @@
+FirstName,LastName,University,Campus,School,Program,YearOfStudy,Gender,Age,County,AttendanceRate,StudyHoursPerWeek,GPA,MentalWellbeingScore,FinancialStressScore,CreditsRegistered
 Grace,Wambui,Daystar University,Athi River Campus,Communication,BA Communication,2,F,20,Kajiado,76,12,3.12,7,5,18
 Peter,Njoro,University of Nairobi,Nairobi City Campus,Law,LLB,3,M,22,Mombasa,79,16,3.46,6,6,21
 Mercy,Chepkorir,Egerton University,Njoro Campus,Science,BSc Biology,1,F,19,Bomet,67,8,2.74,5,8,18
@@ -461,6 +462,446 @@ Veronicah,Njeri,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,N
 Gilbert,Kiptoo,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
 Naomi,Makena,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
 Simeon,Maina,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Leonard,Kiprop,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Monica,Wairimu,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Arthur,Musyoka,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Nancy,Atieno,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Christopher,Kamau,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Damaris,Chepkoech,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Patrick,Omondi,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
+Agnes,Muthoni,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
+Solomon,Kipkemboi,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
+Cynthia,Kawira,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
+Michael,Wafula,JKUAT,Main Campus,IT,BSc IT,2,M,20,Kirinyaga,82,14,3.41,7,5,18
+Beatrice,Mwikali,Strathmore University,Madaraka Campus,Business,BCom,4,F,24,Nairobi,90,19,3.82,8,3,24
+Edwin,Mutua,Mount Kenya University,Thika Campus,Business,BBA,1,M,19,Murang'a,71,9,2.89,6,7,18
+Miriam,Wanjiku,Technical University of Kenya,Main Campus,IT,Diploma IT,3,F,21,Nairobi,75,12,3.09,7,6,21
+Paul,Mwangi,USIU-Africa,Kasarani Campus,International Relations,BA IR,2,M,20,Nairobi,85,14,3.64,8,4,18
+Stacy,Akinyi,Daystar University,Athi River Campus,Business,BBA,4,F,23,Kitui,80,15,3.48,7,6,24
+Simeon,Kariuki,Kenyatta University,Main Campus,Science,BSc Statistics,4,M,23,Embu,84,17,3.40,7,6,24
 Judy,Chepkemoi,University of Nairobi,Nairobi City Campus,Law,LLB,3,F,22,Mombasa,79,16,3.46,6,6,21
 Oscar,Odhiambo,Egerton University,Njoro Campus,Science,BSc Biology,1,M,19,Bomet,67,8,2.74,5,8,18
 Brenda,Syokau,Maseno University,Main Campus,Business,BBM,2,F,20,Siaya,73,10,3.01,6,7,18
